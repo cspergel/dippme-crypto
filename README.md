@@ -52,4 +52,4 @@ fix it before sharing it publicly. More at [dippme.com/security](https://dippme.
 
 ## License
 
-MIT. Copyright 2026 Spergel Health AI LLC.
+MIT. Copyright 2026 Spergel Health AI, LLC.
